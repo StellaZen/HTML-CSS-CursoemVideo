@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body,html{
+    background-color: lightblue;
+}
+
+main{
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
